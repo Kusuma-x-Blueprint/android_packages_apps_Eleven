@@ -27,13 +27,13 @@ buildscript {
 }
 
 android {
-    compileSdk = 34
+    compileSdk = 33
     namespace = "org.lineageos.eleven"
 
     defaultConfig {
         applicationId = "org.lineageos.eleven"
         minSdk = 30
-        targetSdk = 34
+        targetSdk = 33
         versionCode = 420
         versionName = "4.2.0"
     }
